@@ -1,0 +1,134 @@
+
+@import "null.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Syne+Tactile&display=swap');
+/*font-family: 'Syne Tactile', cursive;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Syne+Tactile&display=swap');
+/* font-family: 'Redressed', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+/* font-family: 'Shizuru', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,600;1,400&display=swap');
+/* font-family: 'Work Sans', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+/* font-family: 'Akaya Telivigala', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;900&display=swap');
+/* font-family: 'Titillium Web', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+/* font-family: 'Quintessential', cursive;*/
+
+body{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 20px;
+	line-height: 1.2;
+}
+header{
+	margin-bottom: 30px;
+}
+a{
+	font-family: 'Work Sans', sans-serif;
+	font-weight: normal;
+	font-style: italic;
+	color: blue;
+}
+img{
+	width: 1000px;
+	height: 500px;
+	margin-bottom: 30px;
+}
+p{
+	margin-bottom: 30px;
+}
+.content-center1-text1{
+	font-family: 'Syne Tactile', cursive;
+	color: rgb(247, 137, 2);
+}
+.clarification1{
+	font-family: 'Redressed', cursive;
+	color: black;
+}
+.content-center2-text2{
+	font-family: 'Redressed', cursive;
+	color: red;
+	text-shadow: 10px 2px 5px rgb(3, 3, 3);
+}
+
+.clarification2{
+	font-family: 'Quintessential', cursive;
+	font-size: 25px;
+	color: rgb(232, 248, 3);
+}
+.content-center3-text3{
+	font-family: 'Akaya Telivigala', cursive;
+	font-size: 21px;
+	color: blueviolet;
+	line-height: 1.8;
+}
+.clarification3{
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 600;
+	font-size: 15px;
+	color: brown;
+}
+.content-center4-text4{
+	font-family: 'Quintessential', cursive;
+	font-size: 10px;
+	color: rgb(45, 156, 30);
+	line-height: 1.1;
+	text-shadow: 0 2px 1px rgb(247, 1, 1);
+}
+.content-center5-text5{
+	font-family: 'Shizuru', cursive;
+	font-size: 22px;
+	color: green;
+	line-height: 2;
+}
+
+.content-center6-text6{
+	font-family: 'Syne Tactile', cursive;
+	color: darkcyan;
+	line-height: 1;
+	text-shadow: 0 3px 5px rgb(5, 63, 253);
+}
+
+.content-center7-text7{
+	font-family: 'Redressed', cursive;
+	font-style: 15px;
+	line-height: 0.5;
+	color: rgb(248, 3, 195);
+}
+.content-center8-text8{
+	text-shadow: 0 1px 10px #000;
+}
+.content-center9-text9{
+	color: darkslategrey;
+	text-decoration: line-through;
+}
+.content-center10-text10{
+	font-family: 'Quintessential', cursive;
+	color: darkcyan;
+	text-align: justify;
+	text-decoration: underline;
+	text-shadow: 1px 2px 20px rgb(245, 3, 3);
+}
+
+h1{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 40px;
+	line-height: 1.2;
+	font-weight: bold;
+}
+h2{
+	font-family: 'Work Sans', sans-serif;
+	font-size: 30px;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.footer{
+	font-family: 'Syne Tactile', cursive;
+	text-decoration: underline;
+	text-shadow: 0px 1px 5px rgb(10, 10, 10);
+	color: hotpink;
+}
